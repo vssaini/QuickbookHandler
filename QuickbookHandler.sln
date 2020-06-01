@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickbookHandler", "QuickbookHandler\QuickbookHandler.csproj", "{1F09A737-3984-49C4-AF13-8558B7822DC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F09A737-3984-49C4-AF13-8558B7822DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F09A737-3984-49C4-AF13-8558B7822DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F09A737-3984-49C4-AF13-8558B7822DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F09A737-3984-49C4-AF13-8558B7822DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C94DB40-6F85-4B15-BF41-D1B2695A25FB}
+	EndGlobalSection
+EndGlobal
